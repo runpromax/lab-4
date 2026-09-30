@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #e0f7fa00; /* Halka akashi background */
+    background-color: #e0f7fa00; 
     margin: 0;
     padding: 30px;
 }
 
 
 h1 {
-    color: hsl(276, 85%, 34%); 
+    color: hsl(220, 74%, 58%); 
     text-align: center;
     font-size: 40px;
     margin-bottom: 25px;
@@ -24,7 +24,7 @@ h1 {
 
 
 .post-card {
-    background: #ffffffeb;
+    background: #c7c5c582;
     padding: 24px;
     margin-bottom: 22px;
     border-radius: 12px;
@@ -35,12 +35,12 @@ h1 {
 
 .post-card:hover {
     transform: translateY(-3px);
-    box-shadow: 0 6px 12px rgba(13, 71, 161, 0.15);
+    box-shadow: 0 6px 12px rgba(127, 168, 228, 0.15);
 }
 
 
 .post-card h3 {
-    color: #5e0da1;  
+    color: #26374e;  
     margin-top: 0;
     font-size: 20px;
     line-height: 1.4;
@@ -48,7 +48,7 @@ h1 {
 
 
 .post-card p {
-    color: #333333;
+    color: #5b5555;
     line-height: 1.6;
     font-size: 15px;
 }
